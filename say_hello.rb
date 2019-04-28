@@ -6,4 +6,4 @@ end
 
 say_hello("Kent Beck")
 
-say_hello(name)
+say_hello()
